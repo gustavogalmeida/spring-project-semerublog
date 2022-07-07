@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 Built-By: Gustavo Almeida
 Build-Jdk: 17.0.2
+Implementation-Title: example-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.springsemerublog
+Implementation-Vendor: Pivotal Software, Inc.
 Created-By: Maven Integration for Eclipse
 
